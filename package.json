@@ -1,7 +1,7 @@
 {
   "name": "@substrate/connect",
   "author": "Parity Technologies <admin@parity.io>",
-  "description": "Substrate WASM-light-client librariess",
+  "description": "Substrate WASM-light-client libraries",
   "license": "Apache-2.0",
   "private": true,
   "repository": "https://github.com/paritytech/substrate-connect.git",

@@ -9,7 +9,7 @@ const webpack = require('webpack');
 
 const CopyPlugin = require('copy-webpack-plugin');
 
-const pkgJson = require('./package.json');
+const pkgJson = require('./package.json.js');
 
 // eslint-disable-next-line @typescript-eslint/explicit-function-return-type
 function createWebpack({ alias = {}, context }) {
