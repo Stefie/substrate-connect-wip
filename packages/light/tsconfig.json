@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "outDir": "./lib"
+    "outDir": "../light-old/lib"
   },
   "extends": "../../tsconfig",
-  "include": ["./src"]
+  "include": ["../light-old/src"]
 }
